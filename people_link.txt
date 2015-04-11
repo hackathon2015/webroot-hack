@@ -1,0 +1,12 @@
+Mary Hain
+http://www.sfgate.com/business/article/Attorney-may-hold-Enron-key-2819946.php
+susan J.Mara:
+http://www.wsws.org/en/articles/2004/06/enro-j15.html
+James Steffes
+http://www.dissidentvoice.org/Articles8/Leopold_Enron-Emails-CA.htm
+
+Clique 0:  ['miyung.buster', 'mary.hain', 'susan.mara', 'james.steffes', 'jeff.dasovich', 'alan.comnes', 'richard.shapiro']
+Clique 1:  ['miyung.buster', 'mary.hain', 'susan.mara', 'james.steffes', 'jeff.dasovich', 'alan.comnes', 'paul.kaufman']
+Clique 2:  ['miyung.buster', 'mary.hain', 'susan.mara', 'james.steffes', 'jeff.dasovich', 'karen.denne', 'paul.kaufman']
+Clique 3:  ['miyung.buster', 'john.shelk', 'alan.comnes', 'james.steffes', 'susan.mara', 'jeff.dasovich', 'richard.shapiro']
+Clique 4:  ['miyung.buster', 'john.shelk', 'alan.comnes', 'james.steffes', 'susan.mara', 'jeff.dasovich', 'paul.kaufman']
